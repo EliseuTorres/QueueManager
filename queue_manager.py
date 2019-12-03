@@ -1,8 +1,8 @@
-# Copyright 2018 Eliseu Silva Torres
+# Copyright 2017 Eliseu Silva Torres
 #
 # This file is part of QueueManager.
 #
-# BANSDN is free software: you can redistribute it and/or modify
+# QueueManager is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
