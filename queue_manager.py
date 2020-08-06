@@ -79,7 +79,7 @@ class QueueManager(object):
 	def set_list_queue(self, list_queue):
 		self.list_queue = list_queue
 	
-	def	define_queue(self, max_bw, num_queue, queue_bw):
+	def define_queue(self, max_bw, num_queue, queue_bw):
 		self.set_max_bw(max_bw)
 		self.set_num_queue(num_queue)
 		self.set_queue_bw(queue_bw)
